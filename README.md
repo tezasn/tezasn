@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tezasn
-- 👀 I’m interested in Web 3.0, Data Engineer, NFT, Blockchain, Web Dev
-- 🌱 I’m currently learning Javascript, Python, CI/CD, Selenium
-- 💞️ I’m looking to collaborate on Data Engineer
+- 👀 I’m interested in Web 3.0, NFT, Back-End Dev, API
+- 🌱 I’m currently learning Javascript, Java, CI/CD.
+- 💞️ I’m looking to collaborate on Build API
 - 📫 How to reach me linkedin: @tezasn
 
 <!---
